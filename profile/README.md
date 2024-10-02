@@ -28,12 +28,10 @@ We're excited to hear about your project and explore how we can bring your visio
 
 - **Website**: [sphyre.pro](https://sphyre.pro)
 - **Email**: [enterprise@sphyre.pro](mailto:enterprise@sphyre.pro)
-- **LinkedIn**: [Sphyre](https://www.linkedin.com/company/sphyre)
-- **Twitter**: [@SphyreTech](https://twitter.com/SphyreTech)
 
-## Our Work
+## Our Website
 
-Check out our [portfolio](https://sphyre.pro/portfolio) to see some of our recent projects and the impact we've made for our clients.
+Check out our [website](https://sphyre.pro/home) to see what we can do for you.
 
 ---
 
