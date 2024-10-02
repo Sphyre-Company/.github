@@ -1,6 +1,6 @@
 # Welcome to Sphyre
 
-![Sphyre Logo](https://api.placeholder.com/150)
+![Sphyre Logo](https://www.sphyre.pro/opengraph-image.jpeg)
 
 ## About Us
 
