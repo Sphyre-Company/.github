@@ -33,6 +33,10 @@ We're excited to hear about your project and explore how we can bring your visio
 
 Check out our [website](https://sphyre.pro/home) to see what we can do for you.
 
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/6adf1b18100b96f604db6192d79f2a0e9829e854.svg "Repobeats analytics image")
+
 ---
 
 © 2024 Sphyre. All rights reserved.
